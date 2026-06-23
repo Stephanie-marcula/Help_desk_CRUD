@@ -1,0 +1,4 @@
+# Bloquear acesso direto ao schema
+<FilesMatch "\.(sql|md)$">
+    Require all denied
+</FilesMatch>

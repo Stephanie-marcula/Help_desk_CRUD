@@ -1,0 +1,4 @@
+# Bloquear acesso direto a arquivos PHP da aplicação
+<FilesMatch "\.php$">
+    Require all denied
+</FilesMatch>

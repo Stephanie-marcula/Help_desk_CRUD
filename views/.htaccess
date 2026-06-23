@@ -1,0 +1,4 @@
+# Bloquear acesso direto às views
+<FilesMatch "\.php$">
+    Require all denied
+</FilesMatch>

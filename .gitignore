@@ -1,0 +1,14 @@
+# Arquivos locais/sensíveis
+app/config.php
+.env
+*.log
+
+# Dependências e sistema
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Sourcemaps
+/public/assets/css/app.css.map
+/assets/css/app.css.map
