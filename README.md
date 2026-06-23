@@ -33,9 +33,3 @@ https://helpdeskpro.freedev.app
 - CSS3
 - Bootstrap
 
-## Como executar localmente
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/help-desk-pro.git
